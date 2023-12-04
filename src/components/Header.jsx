@@ -49,7 +49,7 @@ function Header() {
         {/* END nav */}
         <section
           className="site-cover"
-          style={{ backgroundImage: "url(/public/images/bg_3.jpeg)" }}
+          style={{ backgroundImage: "url(/images/bg_3.jpeg)" }}
           id="section-home"
         >
           <div className="container">
