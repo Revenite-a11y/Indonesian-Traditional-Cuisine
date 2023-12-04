@@ -22,7 +22,7 @@ const About = () => {
           data-animate-effect="fadeInRight"
         >
           <img
-            src="/images/about_img_1.jpg"
+            src="/public/images/about_img_1.jpg"
             alt="Free Template by colorlib.com"
             className="img-fluid"
           />
